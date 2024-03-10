@@ -9,4 +9,3 @@ Login Page Application
 
 ## Contact
 For questions or support, contact xinhui.teng09@gmail.com.
-![Uploading image.png…]()
